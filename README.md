@@ -1,2 +1,2 @@
 # tms
-permalink: /index.html
+permalink: /tms/index.html
