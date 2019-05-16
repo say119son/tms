@@ -1,1 +1,2 @@
 # tms
+permalink: /index.html
